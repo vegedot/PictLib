@@ -1,0 +1,15 @@
+# dependencies
+/node_modules
+
+# next.js
+/src/renderer/.next/
+
+# production
+/out
+/dist
+
+# editor
+.vscode
+
+# misc
+.DS_Store
