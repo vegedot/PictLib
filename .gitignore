@@ -4,6 +4,9 @@
 # next.js
 /src/renderer/.next/
 
+# sqlite
+*.db
+
 # production
 /out
 /dist
