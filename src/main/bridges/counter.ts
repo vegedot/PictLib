@@ -5,7 +5,7 @@ const Counter = {
 };
 
 export interface ICounter {
-  fetchCount: () => Promise<void | string[]>;
+  fetchCount: (amount: number) => Promise<void | string[]>;
 }
 
 export default Counter;
